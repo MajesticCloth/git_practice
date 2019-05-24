@@ -1,0 +1,11 @@
+This is a new file I'm creating to test functionality of git.
+
+I like the colour blue.
+
+So do you?
+
+You dont think you do?
+
+Well its true.
+
+You too, like the colour blue.
